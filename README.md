@@ -1,9 +1,9 @@
 # Scott Grocott
 ### Principal Engineer / Creative Technologist 
 
-[![X DM](https://img.shields.io/badge/X_Direct_Message-Contact_Inquiries-black?style=for-the-badge&logo=x)](https://x.com/yourhandle) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yourhandle)
+[![X DM](https://img.shields.io/badge/X_Direct_Message-Contact_Inquiries-black?style=for-the-badge&logo=x)](https://x.com/scott_grocott) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/scottgrocott)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/scott_grocott)
 
 ---
 
